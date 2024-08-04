@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+# Yapımcı:- TheWise
+# Team:- UnWashed Team
+# Github:- TheWise1453
+
+case "$1" in
+  -m)
+    php modules/.tracem.php
+  ;;
+  -t)
+    case "$#" in
+    2)
+      php modules/.traceip.php $2
+    ;;
+    *)
+      echo "error : invalid arguments !!"
+      echo "use: trace -t <target_ip>"
+    ;;
+    esac
+  ;;
+  -u)
+    php modules/.update.php
+    exit
+  ;;
+  update)
+    php modules/.update.php
+    exit
+  ;;
+  start)
+    php .IP-Tracer.php
+    exit
+  ;;
+  -rm)
+    php modules/.uninstall.php
+    exit
+  ;;
+  *)
+    echo "Kullanım: trace [komut]... [Diğer]..."
+    echo " Komutlar:"
+    echo " -t <hedef IP_ip>      Hedef IP Bilgilerini gösterir"
+    echo " -m                  Sizin IP adresinizi gösterir"
+    echo " -u                  Toolu günceller"
+    echo " update              Toolu günceller"
+    echo " start               Traceri başlatır"
+esac
