@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# Yapımcı:- TheWise
-# Team:- UnWashed Team
-# Github:- TheWise1453
+# Yapımcı: TheWise
+# Team: UnWashed Team
+# Github: TheWise1453
 
 case "$1" in
   -m)
