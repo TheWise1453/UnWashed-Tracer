@@ -65,7 +65,7 @@ Not: Bu tool tamamen eğitim amacıyla tasarlanmıştır!
   
   ### İletişim:
 <p align="left">
-  <a href="https://github.com/TheWise1453" target="_blank"><img src="https://img.shields.io/badge/Github-Yeazyyv2-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/TheWise1453" target="_blank"><img src="https://img.shields.io/badge/Github-TheWise1453-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/yeazyycw" target="_blank"><img src="https://img.shields.io/badge/IG-%40yeazyycw-red?style=for-the-badge&logo=instagram"></a>
  <a
 
