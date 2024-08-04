@@ -1,6 +1,6 @@
-# Yapımcı:- TheWise
-# Team:- UnWashed Team
-# Github:- TheWise1453
+# Yapımcı: TheWise
+# Team: UnWashed Team
+# Github: TheWise1453
 
 if [ -e  /usr/lib/sudo ];then
   if [ ! -e /usr/bin/php ];then
