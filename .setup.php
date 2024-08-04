@@ -88,7 +88,7 @@ EOL;
 | \033[01;32mtrace -t <traget-ip>\033[01;37m  | \033[01;33mHedef IP Bilgilerini gösterir\033[01;37m    |
  ----------------------------------------------
 
-\033[01;31mNote :- ip-api will automatically ban any IP addresses doing over 150 requests per minute.\033[00m
+\033[01;31mNote: Bu Tool tamamen eğitim amacıyla tasarlanmıştır.\033[00m
 
 
 EOL;
